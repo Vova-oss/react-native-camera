@@ -6,3 +6,4 @@ export type CameraStatus = _CameraStatus;
 export { RNCamera, FaceDetector };
 
 some info from branch2 #1
+some info from branch2 #2
