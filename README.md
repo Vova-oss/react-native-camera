@@ -2,6 +2,7 @@
 
 first change
 second change
+third change
 
 [Looking for Maintainers](https://github.com/react-native-community/react-native-camera/issues/3000)
 
