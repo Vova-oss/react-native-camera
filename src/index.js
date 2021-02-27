@@ -4,3 +4,5 @@ import FaceDetector from './FaceDetector';
 
 export type CameraStatus = _CameraStatus;
 export { RNCamera, FaceDetector };
+
+some info branch1 #1
